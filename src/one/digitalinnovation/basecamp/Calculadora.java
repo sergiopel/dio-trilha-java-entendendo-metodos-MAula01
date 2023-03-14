@@ -5,6 +5,7 @@ package one.digitalinnovation.basecamp;
  */
 public class Calculadora {
 
+    //o static permite que o método seja chamado diretamente da classe, sem a necessidade de instanciar
     public static void soma(double numero1, double numero2) {
 
         double resultado = numero1 + numero2;
